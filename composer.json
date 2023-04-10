@@ -1,5 +1,5 @@
 {
-    "name": "himiklab/yii2-sortable-grid-view-widget",
+    "name": "kucherik/yii2-sortable-grid-view-widget",
     "description": "Sortable modification of standard Yii2 GridView widget",
     "keywords": ["yii2", "sortable", "gridview", "grid", "widget"],
     "type": "yii2-extension",
