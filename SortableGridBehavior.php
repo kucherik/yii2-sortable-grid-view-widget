@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\sortablegrid;
+namespace kucherik\sortablegrid;
 
 use yii\base\Behavior;
 use yii\base\InvalidConfigException;
@@ -32,7 +32,7 @@ use yii\db\ActiveRecord;
  * ```
  *
  * @author HimikLab
- * @package himiklab\sortablegrid
+ * @package kucherik\sortablegrid
  */
 class SortableGridBehavior extends Behavior
 {

@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\sortablegrid;
+namespace kucherik\sortablegrid;
 
 use Yii;
 use yii\base\Action;
@@ -31,7 +31,7 @@ use yii\web\BadRequestHttpException;
  * ```
  *
  * @author HimikLab
- * @package himiklab\sortablegrid
+ * @package kucherik\sortablegrid
  */
 class SortableGridAction extends Action
 {
